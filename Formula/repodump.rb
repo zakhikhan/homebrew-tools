@@ -30,3 +30,4 @@ class Repodump < Formula
       assert_match /Estimated token count: \d+/, token_output
     end
   end
+  
