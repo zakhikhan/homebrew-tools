@@ -1,7 +1,7 @@
 class Repodump < Formula
     desc "Extract and format git repository contents as markdown for LLMs"
     homepage "https://github.com/zakhikhan/repodump"
-    url "https://github.com/zakhikhan/repodump/archive/refs/tags/v0.1-alpha.tar.gz"
+    url "https://github.com/zakhikhan/repodump/archive/refs/tags/v0.1.1-alpha.tar.gz"
     sha256 "ceca2be85304d4e1a237bd27d7b3f0f95fa8dc5c868f306bc10587ea9e62a301"
     license "MIT"
   
